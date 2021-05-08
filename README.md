@@ -1,6 +1,6 @@
-Basic game that guessing number sent by client.
+#Basic game that guessing number sent by client.
 
-Just a basic implementation of socket lib. 
+##Just a basic implementation of socket lib. Developed for a school assignment. 
 
 >>How does it works?
 
