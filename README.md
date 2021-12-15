@@ -2,8 +2,8 @@
 
 ## Just a basic implementation of socket
 
-###what does it requires?
-####You only need to provide IP Address of Server and Port number.
+### what does it requires?
+#### You only need to provide IP Address of Server and Port number.
 
 >>How does it works?
 
