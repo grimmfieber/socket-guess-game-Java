@@ -1,8 +1,8 @@
-# Basic game that guessing number sent by client.
+# Basic game that guesses number sent by client.
 
 ## Just a basic implementation of socket
 
-### what does it requires?
+### What does it requires?
 #### You only need to provide IP Address of Server and Port number.
 
 >>How does it works?
